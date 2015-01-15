@@ -1,7 +1,8 @@
 # Battleship Objects
 *Classes
 ** Ship --Will hold initialize method that will create ship, with ship name and hit points
- Will also hold sunk_ship method that will return a false if ship runs out of hit points
+ Will also hold sunk_ship method that will return a false if ship runs out of hit points  
+ 
 ** PlayerAttack
 Contains remove_hit_points method
 
